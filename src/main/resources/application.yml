@@ -1,0 +1,4 @@
+spring:
+  mvc:
+    athmatch:
+      matching-startegy: ANT_PATH_MATCHER
